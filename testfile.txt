@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hello BSD this is just a test file
 BSD BSD
 Breeze
 AEON
+=======
+Hello this is just a test file
+hello jg
+>>>>>>> branch1
